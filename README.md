@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" style="width:70%; height:auto; fle">
 <br><br>
 </div>
 <br/>
-<div align="center"  margin="20" >
+<div align="center" style="margin: 10px; padding: 10px;">
 
 
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Daughter&color=%236FDA44&size=40&lines=Hi!+Every+one;+I'm+Shehara;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Daughter&color=%236FDA44&size=35&width=1000&speed=35&lines=Hi!+Everyone;+I'm+Shehara+Prasadini;&center=true)](https://git.io/typing-svg)
+
 
 
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">I'm a passionate software engineer with experience in various technologies and a keen interest in continuous learning and development.</h3>
 <h3 align="center">Welcome to my GitHub profile</h3>
@@ -32,9 +34,9 @@
   
 - 💬 Ask me about **Java**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://daminduprasad.site/)
+- 👨‍💻 All of my projects are available here 
   
-- 📄 Know about my experiences [My CV](https://github.com/Shehara-Rajanayaka/my-portfolio/blob/main/src/assets/Shehara-Rajanayaka-cv.pdf)
+- 📄 Know about my experiences [My Linked In](https://www.linkedin.com/in/shehara-rajanayaka/)
 
 - 📫 How to reach me **shehararajanayaka00@gmail.com**
   
